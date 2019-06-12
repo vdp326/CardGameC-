@@ -1,0 +1,7 @@
+C:\Users\vupha\Desktop\C#\timcorey\Foundation series 1 - 6\6\CardGameApp\CardGameUI\bin\Debug\CardGameUI.exe.config
+C:\Users\vupha\Desktop\C#\timcorey\Foundation series 1 - 6\6\CardGameApp\CardGameUI\bin\Debug\CardGameUI.exe
+C:\Users\vupha\Desktop\C#\timcorey\Foundation series 1 - 6\6\CardGameApp\CardGameUI\bin\Debug\CardGameUI.pdb
+C:\Users\vupha\Desktop\C#\timcorey\Foundation series 1 - 6\6\CardGameApp\CardGameUI\obj\Debug\CardGameUI.csprojAssemblyReference.cache
+C:\Users\vupha\Desktop\C#\timcorey\Foundation series 1 - 6\6\CardGameApp\CardGameUI\obj\Debug\CardGameUI.csproj.CoreCompileInputs.cache
+C:\Users\vupha\Desktop\C#\timcorey\Foundation series 1 - 6\6\CardGameApp\CardGameUI\obj\Debug\CardGameUI.exe
+C:\Users\vupha\Desktop\C#\timcorey\Foundation series 1 - 6\6\CardGameApp\CardGameUI\obj\Debug\CardGameUI.pdb
